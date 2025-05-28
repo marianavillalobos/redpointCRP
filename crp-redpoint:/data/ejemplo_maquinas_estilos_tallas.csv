@@ -1,0 +1,4 @@
+ID_maquina,sku,descripcion,tiempo_real_promedio_min_unidad,yield_inicial_percent,scrap_directo_percent,horas_disponibles_turno,turnos_por_dia,eficiencia_percent,utilizacion_percent,demanda_unidades
+4.0,575.0_Talla10-12,Máquina Antigua A,6.0,90.0,3.0,8,2,65.0,80.0,1000
+5.0,575.0_Talla10-12,Máquina Estándar C,4.8,94.0,1.5,8,2,75.0,70.0,1200
+6.0,575.0_Talla10-12,Máquina Nueva E,4.0,97.0,0.5,4,2,85.0,85.0,1500
